@@ -1,6 +1,6 @@
 # Ejercicios de práctica 
 
-## Ejercicio 1 
+## Ejercicio 1 A
 (realizado en clase)
 
 Supongamos que estás trabajando en un proyecto llamado "mi-proyecto" y has realizado algunos cambios en un archivo llamado "index.html". El ejercicio consiste en hacer lo siguiente: 
